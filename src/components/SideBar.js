@@ -68,7 +68,7 @@ const SideBar = () => {
         <DarkMode open={open} />
         <div className='nav'>
           <a
-            href='https://www.buymeacoffee.com/eyuel'
+            href='https://m.facebook.com/sukhdevr898'
             rel='noreferrer'
             target='_blank'
             className='nav__item'>
@@ -82,7 +82,7 @@ const SideBar = () => {
           <a
             rel='noreferrer'
             target='_blank'
-            href='https://github.com/EyuCoder/chatgpt-clone'
+            href='https://github.com/sukhdevr898'
             className='nav__item'>
             <div className='nav__icons'>
               <AiOutlineGithub />
