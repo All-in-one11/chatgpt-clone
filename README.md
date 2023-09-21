@@ -1,10 +1,10 @@
-# ChatGPT clone with DALL.E image generation model
+7# ChatGPT clone with DALL.E image generation model
 
 ## One-Click Deploy
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/EyuCoder/chatgpt-clone)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/All-in-one11/chatgpt-clone)
 
 ### Deploy to Vercel
 
